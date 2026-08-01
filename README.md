@@ -1,12 +1,9 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!👋 Nice to see you.</h1>
 
 
 <p>Welcome to my page! </br> I'm Valery, junior developer from  <b>Sochi, Russia</b>, currently living in <b>Sochi</b>. </p>
-<h3>Things I code with</h3>
-<img width="1350" height="158" alt="image" src="https://github.com/user-attachments/assets/e5ae79c8-8401-4cb4-88dd-e0888c19ebbb" />
+### QA Engineer (Manual) | Trainee/Junior Java Developer | Осваиваю автоматизацию тестирования
 
-
-## Hi there 👋
 
 <!--
 **Zl0yr0k/Zl0yr0k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
