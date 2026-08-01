@@ -1,10 +1,9 @@
 <div id="header" align="center">
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey!👋 Nice to see you.</h1>
-
-
 <p>Welcome to my page! </br> I'm Valery, junior developer from  <b>Sochi, Russia</b>, currently living in <b>Sochi</b>. </p>
+### QA Engineer (Manual) | Trainee/Junior Java Developer | Learning Test Automation
 </div>
-### QA Engineer (Manual) | Trainee/Junior Java Developer | Осваиваю автоматизацию тестирования
+
 
 <p>
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -49,6 +48,8 @@ I'm a beginner QA Engineer with **1.5 years of commercial experience** in manual
 **What I'm looking for:** a Junior QA Automation Engineer or Junior Java Developer position where I can apply my knowledge, learn from a strong team, and grow as a developer.
 
 </details>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valery-ostapenko-2b9048405/)
 
 
 <!--
