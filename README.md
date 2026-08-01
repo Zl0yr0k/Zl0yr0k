@@ -4,6 +4,9 @@
 <p>Welcome to my page! </br> I'm Valery, junior developer from  <b>Sochi, Russia</b>, currently living in <b>Sochi</b>. </p>
 ### QA Engineer (Manual) | Trainee/Junior Java Developer | Осваиваю автоматизацию тестирования
 
+<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+
 ## 🇷🇺 Русский | 🇬🇧 English
 
 <details>
