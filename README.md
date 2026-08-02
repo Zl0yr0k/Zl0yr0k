@@ -12,7 +12,7 @@
 </p>
 
 
-## 🇷🇺 Русский | 🇬🇧 English
+## 🇷🇺 Русский | en English
 
 <details>
 <summary><b>🇷🇺 Русская версия</b></summary>
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-<summary><b>🇬🇧 English version</b></summary>
+<summary><b>en English version</b></summary>
 
 ## About Me
 
